@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent-Practice-02112021</string>
+    <string name="hello">Hello</string>
+    <string name="move_to_another_activity">Move To Another Activity</string>
+</resources>
